@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a14e45bb43c5ed84babc0b51688eb386
+timeCreated: 1489684772
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1518445796543908, guid: f9f4501a142353144bdf3d61a7407d9e, type: 2}
+  - Anim: {instanceID: 0}
+  - MageFireball: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

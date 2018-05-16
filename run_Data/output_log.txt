@@ -1,0 +1,334 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   23.20.16.4973
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\147003422\Desktop\Old CS\Networking\Group Game\GroupGame\run_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.865212 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.370347 ms
+
+Unloading 166 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 2.693692 ms (FindLiveObjects: 0.034986 ms CreateObjectMapping: 0.038968 ms MarkObjects: 0.262542 ms  DeleteObjects: 2.356056 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.589978 ms
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 591.
+Total: 2.502545 ms (FindLiveObjects: 0.028444 ms CreateObjectMapping: 0.021617 ms MarkObjects: 0.174933 ms  DeleteObjects: 2.276981 ms)
+
+success
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 21dc -> priority: 1 
+  Thread -> id: 9a0 -> priority: 1 
+  Thread -> id: 249c -> priority: 1 
+  Thread -> id: 1f54 -> priority: 1 
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.264641 ms
+
+Unloading 274 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 4.004983 ms (FindLiveObjects: 0.042951 ms CreateObjectMapping: 0.046080 ms MarkObjects: 0.259129 ms  DeleteObjects: 3.655969 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.167538 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 617.
+Total: 0.229831 ms (FindLiveObjects: 0.023040 ms CreateObjectMapping: 0.019626 ms MarkObjects: 0.182329 ms  DeleteObjects: 0.003982 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.320853 ms
+
+Unloading 164 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 2.315381 ms (FindLiveObjects: 0.025031 ms CreateObjectMapping: 0.019911 ms MarkObjects: 0.201386 ms  DeleteObjects: 2.068482 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.482134 ms
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 594.
+Total: 2.150687 ms (FindLiveObjects: 0.028444 ms CreateObjectMapping: 0.024177 ms MarkObjects: 0.199395 ms  DeleteObjects: 1.898100 ms)
+
+success
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.136926 ms
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 620.
+Total: 0.693760 ms (FindLiveObjects: 0.046933 ms CreateObjectMapping: 0.038684 ms MarkObjects: 0.291555 ms  DeleteObjects: 0.316018 ms)
+
+success
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "OrcAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SkeletonAi(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.362775 ms
+
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 521.
+Total: 1.241317 ms (FindLiveObjects: 0.047786 ms CreateObjectMapping: 0.055466 ms MarkObjects: 0.398222 ms  DeleteObjects: 0.738703 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChasePlayer.OnTriggerStay (UnityEngine.Collider obj) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+success
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BossAI(Clone)/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BossAI(Clone)/chasebox"
+ 
+(Filename:  Line: 0)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.304924 ms
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 620.
+Total: 1.836660 ms (FindLiveObjects: 0.031857 ms CreateObjectMapping: 0.020195 ms MarkObjects: 0.193706 ms  DeleteObjects: 1.590331 ms)
+
